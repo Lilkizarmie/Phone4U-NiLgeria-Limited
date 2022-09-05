@@ -1,0 +1,55 @@
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	
+}
+
+@media (max-width: 1199px) {
+    .contact-us-area.section-bottom > .row {
+        padding: 0 30px;
+    }
+}
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+}
+@media (max-width: 991px) {
+	.blog-details-content-wrap, .our-features-area-wrap {
+        margin: 0 1.5rem;
+    }
+    .thankyou-content h2 {
+        font-size: 28px;
+        line-height: 37px;
+        margin: 18px 0;
+    }
+    .thankyou-content p {
+        margin-bottom: 18px;
+    }
+    .thankyou-content img {
+        height: 166px;
+    }
+}
+
+@media (max-width: 767px) {
+    /* .direction-rtl .popular-categories-area .section-header-area .text-md-end {
+        text-align: right!important;
+    }	 */
+}
+
+/*  Small mobile :320px. */
+
+@media (min-width: 320px) and (max-width: 767px) {
+	.contact-us-area.section-bottom .row {
+        padding: 0 15px;
+    }
+}
+
+
+/* Large Mobile :577px. */
+
+@media only screen and (min-width: 577px) and (max-width: 767px) {
+	
+}
+
